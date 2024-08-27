@@ -1,6 +1,6 @@
 /**
 
- L.C: 131. Palindrome Partitioning
+ L.C: 78. Subsets
 
  Approach: Recursion with Backtracking
 
